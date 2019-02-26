@@ -23,6 +23,7 @@ The app includes the following features:
 	*This will show the following information about the song 
 	*node liri.js spotify-this-song <YourSong>
 	*![GIF](/gifs/gif2.gif?raw=true "spotify-this-song")
+
 * `movie-this`
 	*This will output the following information about your Movies 
 	*node liri.js movie-this <YourMovies>
